@@ -1,0 +1,6 @@
+@SistemaPeaje.API_HostAddress = http://localhost:5125
+
+GET {{SistemaPeaje.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
